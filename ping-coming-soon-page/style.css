@@ -96,7 +96,7 @@ button:hover {
 	margin: 60px 0;
 }
 
-.social-list {
+.social-media {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -104,11 +104,11 @@ button:hover {
 	list-style-type: none;
 }
 
-.social-list li {
+.social-media li {
 	margin: 10px;
 }
 
-.social-list li a {
+.social-media li a {
 	border: 1px solid hsl(0, 7%, 89%);
 	border-radius: 50%;
 	color: hsl(223, 87%, 63%);
@@ -121,7 +121,7 @@ button:hover {
 	text-decoration: none;
 }
 
-.social-list li a:hover {
+.social-media li a:hover {
 	background-color: hsl(223, 87%, 63%);
 	border-color: hsl(223, 87%, 63%);
 	color: #fff;
